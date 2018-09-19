@@ -11,8 +11,7 @@ Keras fundamentals: regression, classification, and convolutional neural network
 - **Softmax** for classification (output layer)
 
 ### Requirements
-- Python 3
-- Third-party modules: *keras*, *pandas*, *numpy*, *matplotlib*
+- Python 3 with third-party modules: *keras*, *pandas*, *numpy*, and *matplotlib*
 - MNIST dataset (download from https://s3.amazonaws.com/img-datasets/mnist.npz)
 
 ### Credit
