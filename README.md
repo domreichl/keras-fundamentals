@@ -6,7 +6,7 @@ Keras fundamentals: regression, classification, and convolutional neural network
 - **classification_keras.py** uses Keras to build and fit a 3-layer classification model to categorize handwritten digits.
 - **cnn_keras.py** uses Keras to build and fit a 4-layer convolutional model to categorize handwritten digits.
 
-### Algorithms
+### Activation Functions
 - **ReLU** for hidden layers
 - **Softmax** for classification output layer
 
