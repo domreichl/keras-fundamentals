@@ -7,8 +7,8 @@ Keras fundamentals: regression, classification, and convolutional neural network
 - **cnn_keras.py** uses Keras to build and fit a 4-layer convolutional model to categorize handwritten digits.
 
 ### Algorithms
-- **ReLU** for regression and classification
-- **Softmax** for classification (output layer)
+- **ReLU** for hidden layers
+- **Softmax** for classification output layer
 
 ### Requirements
 - Python 3 with third-party modules: *keras*, *pandas*, *numpy*, and *matplotlib*
